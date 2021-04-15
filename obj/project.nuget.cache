@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cnq3RA8sCSLgdPfRLhWV/316Z1amC+365oTBKkkMPUn5xLYudHVcoX+YsIdH2zRpi+eV7nZtVpnGtq7osg94zg==",
+  "dgSpecHash": "3SilMlYfr7UElQIZiq5E6Z5yiozFCfw3RmYdOG+le0n83xUoxHuhcJZTL84B41qKYTD/TAHOjfQABryyQMPoww==",
   "success": true,
   "projectFilePath": "C:\\stone\\DesafioStone\\desafioStone.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,7 @@
     "C:\\Users\\supero\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\supero\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\supero\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\supero\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\supero\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\supero\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\supero\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
